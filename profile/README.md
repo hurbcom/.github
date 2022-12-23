@@ -20,6 +20,7 @@ www.hurb.com
 * [Bravo (Backend)](https://github.com/hurbcom/challenge-bravo)
 * [Charlie (Frontend)](https://github.com/hurbcom/challenge-charlie)
 * [Delta (Devops)](https://github.com/hurbcom/challenge-delta)
+* [Sierra (DeFi)](https://github.com/hurbcom/challenge-sierra)
 
 
 ## Want to get insightful with our content creators?
